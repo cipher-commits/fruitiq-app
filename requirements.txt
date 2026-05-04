@@ -1,0 +1,9 @@
+streamlit
+tflite-runtime
+opencv-python-headless
+pillow
+numpy
+pandas
+plotly
+gtts
+requests
